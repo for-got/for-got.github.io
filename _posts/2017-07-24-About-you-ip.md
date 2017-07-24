@@ -6,12 +6,12 @@ categories:
 - Internet
 ---
 
- <script type="text/javascript" src="http://ip.chinaz.com/getip.aspx"></script> (chinaz)
+Data from Chinaz <script type="text/javascript" src="http://ip.chinaz.com/getip.aspx"></script>
 
- <script src="http://pv.sohu.com/cityjson?ie=utf-8"></script>
+Data from Sohu <script src="http://pv.sohu.com/cityjson?ie=utf-8"></script>
 <script type="text/javascript">
 document.write(returnCitySN["cip"]+','+returnCitySN["cname"])
-</script> (sohu)
+</script> 
 
 
 
